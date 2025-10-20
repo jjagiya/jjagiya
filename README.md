@@ -1,3 +1,7 @@
+<table border="0">
+     <tr>
+       <td>
+         <br>
 <p align="center">
      ${\textsf{\color{#2ED9C7}once i bite, i never let go}}$<br>
   <br>
@@ -11,3 +15,7 @@
             ${\textsf{\color{#2ED9C7}no dni i block freely}}$<br>
          
  <br>
+<br>
+    </td>
+  </tr>
+</table>
