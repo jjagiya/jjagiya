@@ -2,6 +2,8 @@
      <tr>
        <td>
          <br>
+<div align="center">
+     
 <p align="center">
      ${\textsf{\color{#2ED9C7}once i bite, i never let go}}$<br>
   <br>
@@ -16,6 +18,7 @@
          
  <br>
 <br>
+</div>
     </td>
   </tr>
 </table>
