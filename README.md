@@ -8,7 +8,7 @@
      ${\textsf{\color{#2ED9C7}once i bite, i never let go}}$<br>
   <br>
 <p align="center"> 
-  <p align="center"><img src="https://i.ibb.co/0V8qCXPS/awww-how-romantic-mjjw-2.gif"></img></p>
+  <p align="center"><img src="https://i.ibb.co/0V8qCXPS/awww-how-romantic-mjjw-2.gif" alt="awww-how-romantic-mjjw-2" border="0" /></p>
  <br>
 
 <p align="center">
